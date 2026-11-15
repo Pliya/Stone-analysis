@@ -62,7 +62,6 @@ make
 **Example:**
 ```bash
 ./stone_analysis --decypher output.wav
-# MIAOU
 ```
 
 ### 2. Hide a Secret Message in a WAV File (`--cypher`)
